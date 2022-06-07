@@ -49,7 +49,7 @@ export default function Cam(props) {
         base64: true,
       });
       const datat = {
-        api_key: "pb34g8sKlOItopB6fsJmYOoUol0q7I378LsyeFXktOCVjh7mum",
+        api_key: "API_KEY_BY",
         images: [data.base64],
         modifiers: [
           "crops_fast",
